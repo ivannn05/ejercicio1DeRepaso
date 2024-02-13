@@ -1,0 +1,14 @@
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeRepaso\bin\Debug\net6.0\ejercicio1DeRepaso.exe
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeRepaso\bin\Debug\net6.0\ejercicio1DeRepaso.deps.json
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeRepaso\bin\Debug\net6.0\ejercicio1DeRepaso.runtimeconfig.json
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeRepaso\bin\Debug\net6.0\ejercicio1DeRepaso.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeRepaso\bin\Debug\net6.0\ejercicio1DeRepaso.pdb
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeRepaso\obj\Debug\net6.0\ejercicio1DeRepaso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeRepaso\obj\Debug\net6.0\ejercicio1DeRepaso.AssemblyInfoInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeRepaso\obj\Debug\net6.0\ejercicio1DeRepaso.AssemblyInfo.cs
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeRepaso\obj\Debug\net6.0\ejercicio1DeRepaso.csproj.CoreCompileInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeRepaso\obj\Debug\net6.0\ejercicio1DeRepaso.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeRepaso\obj\Debug\net6.0\refint\ejercicio1DeRepaso.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeRepaso\obj\Debug\net6.0\ejercicio1DeRepaso.pdb
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeRepaso\obj\Debug\net6.0\ejercicio1DeRepaso.genruntimeconfig.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1DeRepaso\obj\Debug\net6.0\ref\ejercicio1DeRepaso.dll
